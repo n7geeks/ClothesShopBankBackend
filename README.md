@@ -6,5 +6,5 @@ This is the Bank backend for this application : [Clothes Management with JavaFX]
 
 * Clone this repository
 * Create a database called `clothes_shop_backend`
-* Import the database.sql into the database you've just created
+* Import the file `database.sql` into the database you've just created
 * Run it!
